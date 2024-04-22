@@ -24,6 +24,7 @@ To execute set of tests, after starting the application (docker container or Jav
 
 ```bash ./psp-test.sh```
 
+The valid credit card numbers used in this testing were taken from here: https://support.bluesnap.com/docs/test-credit-card-numbers
 
 ## System Design Notes
 
